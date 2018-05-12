@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38041'
     url: http://www.gutenberg.org/2009/agents/38041
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36032#The-Great-Steel-Strike-and-its-Lessons
 gutenberg_issued: '2011-05-05'
 gutenberg_type: Text
 identifiers:
