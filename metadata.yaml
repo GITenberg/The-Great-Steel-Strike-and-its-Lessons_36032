@@ -1,0 +1,29 @@
+_repo: The-Great-Steel-Strike-and-its-Lessons_36032
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36032-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Foster, William Z.
+    alias: Foster, Wm. Z. (William Zebulon)
+    birthdate: 1881
+    deathdate: 1961
+    gutenberg_agent_id: '38041'
+    url: http://www.gutenberg.org/2009/agents/38041
+description: ''
+gutenberg_issued: '2011-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36032'
+  lccn: '20026587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'United States Steel Corporation'
+- !lcsh 'Steel Strike, U.S., 1919-1920'
+title: The Great Steel Strike and its Lessons
+url: http://www.gutenberg.org/ebooks/36032
